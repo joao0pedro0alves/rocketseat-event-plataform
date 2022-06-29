@@ -1,16 +1,4 @@
-# Rocketseat - Event Plataform
-
-# &#128679; Under construction &#128679;
-
-> Folder structure layout
-
-### Directory layout
-
-### Source directory layout
-
-### Scripts
-
-...
+# Ignite Lab 02
 
 ### Tools and utilities
 
@@ -21,16 +9,6 @@
 -   GraphQL
 -   TailwindCSS
 -   PostCSS
-
-...
-
-### Compiled files
-
-...
-
-### 3rd party libraries
-
-...
 
 ### Author
 
