@@ -7,7 +7,7 @@ import { CheckCircle, Lock } from "phosphor-react"
 
 interface LessonProps {
     title: string
-    slug: string
+    slug?: string | null
     availableAt: Date
     type: "live" | "class"
 }
